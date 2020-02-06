@@ -8,6 +8,7 @@ geopandas
 postcodes_io_api
 matplotlib
 pygame
+pygeocodio
 keras
 seaborn
 tensorflow
